@@ -1,7 +1,6 @@
 ## Aula 3 React
 
-Este repositório contém uma coleção de componentes React que demonstram várias funcionalidades e exercícios. Sinta-se à vontade para explorá-los e utilizá-los em seus projetos!
-
+Este repositório contém uma coleção de componentes React que demonstram várias funcionalidades e exercícios. Foram os componentes aprendidos e utilizados em uma aula de React
 ### Componentes Incluídos:
 
 - **Exemplo01**: Demonstra o uso básico do estado do React com um exemplo simples.
